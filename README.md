@@ -10,18 +10,19 @@
   ## My Schedule
 
 - Monday
-  - 13:00 - COMP1238 - Data Mgmnt
-  - 16:00 - COMP0000 - Not a real course
-  Tuesday
-  - 13:00 - COMP1238 - Data Mgmnt
-  - 16:00 - COMP0000 - Not a real course
+  - 9:00 - COMP1236 - COMPUTING LOGIC
+  - 11:00 - COMP1151 - IT ESSENTIALS
+  - 15:00 - COMP1234 - WEB DEVELOPMENT
+-Tuesday
+  - 14:00 - COMP1234 - WEB DEVELOPMENT
+  - 16:30 - COMP1238 - DATA MANAGEMENT
 - Wednesday
-  - 13:00 - COMP1238 - Data Mgmnt
-  - 16:00 - COMP0000 - Not a real course
+  - 9:00 - COMP1151 - IT ESSENTIALS
+  - 12:00 - MATH1162 - MATH
 - Thursday
-  - 13:00 - COMP1238 - Data Mgmnt
-  - 16:00 - COMP0000 - Not a real course
+  - 14:00 - MATH1162 - MATH
 - Friday
-  - 13:00 - COMP1238 - Data Mgmnt
-  - 16:00 - COMP0000 - Not a real course
+  - 10:00 - COMP1236 - COMPUTING LOGIC
+  - 12:00 - COMM2000 - COMMUNICATION
+  - 15:00 - COMP1238 - DATA MANAGEMENT
 
